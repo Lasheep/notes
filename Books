@@ -1,8 +1,12 @@
-<Computer Vision:Models,learning,and reference>
-<Multiple View Geometry in Computer Vision>
-<The Elements of Statistical Learning>
-<Pattern Recognition and Machine Learning>
-<计算机图形学与几何造型导论》
+<Computer Vision:Models,learning,and reference> #入门教材，网上有
+
+<Multiple View Geometry in Computer Vision>#多视图几何、三维重建、图像测量 须掌握线性代数基础，会SVD分解
+
+<The Elements of Statistical Learning>#模式识别算法的分析（较难）
+<Pattern Recognition and Machine Learning>#模式识别模型
+
+<计算机图形学与几何造型导论》#图形学
+
 文献：
   顶级期刊: PAMI IJCV
   顶级会议: ICCV CVPR
